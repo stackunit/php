@@ -4,7 +4,13 @@
 <ul>
   <li>how to install PHP</li>
   <li>how to cheack php version</li>
-  <li>php variable and data type</li>
+  <li>
+    php variable and data type
+    <ul>
+      <li>integer</li>
+    </ul>
+  
+  </li>
 
 </ul>
 
