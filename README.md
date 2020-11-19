@@ -7,7 +7,12 @@
   <li>
     php variable and data type
     <ul>
-      <li>integer</li>
+      <li>Integer</li>
+      <li>String</li>
+      <li>Float</li>
+      <li>Boolen</li>
+      <li>Null</li>
+      <li>Empty</li>
     </ul>
   
   </li>
