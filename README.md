@@ -16,6 +16,9 @@
     </ul>
   
   </li>
+  <li>control statement</li>
+  <li>Loops</li>
+  <li>array</li>
 
 </ul>
 
