@@ -27,4 +27,8 @@
   <li>PHP Session</li>
 
 </ul>
-
+<h2>PHP Project List</h2>
+<ul>
+  <li>how to install PHP</li>
+  <li>how to cheack php version</li>
+</ul>
