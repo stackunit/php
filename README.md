@@ -29,6 +29,11 @@
 </ul>
 <h2>PHP Project List</h2>
 <ul>
-  <li>how to install PHP</li>
-  <li>how to cheack php version</li>
+  <li>Visting Card App</li>
+  <li>Contact Management System</li>
+  <li>Blog CMS</li>
+  <li>Online Shoping</li>
+  <li>News Portel</li>
+  
+  
 </ul>
