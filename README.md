@@ -40,6 +40,6 @@
 </ul>
 <center>
   <hr>
-<a href="./">Home</a>
+<a href="https://codewithpunit.github.io/">Home</a>
   <hr>
 </center>  
