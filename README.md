@@ -16,9 +16,15 @@
     </ul>
   
   </li>
-  <li>control statement</li>
+  <li>Super Global Variable</li>
+  <li>Control statement</li>
   <li>Loops</li>
-  <li>array</li>
+  <li>Array</li>
+  <li>Array function</li>
+  <li>Function</li>
+  <li>PHP File System</li>
+  <li>Database</li>
+  <li>PHP Session</li>
 
 </ul>
 
