@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background: whitesmoke;
+        }
+
+        .title {
+            padding: 1%;
+            color: white;
+            background: teal;
+            text-align: center;
+            margin-bottom: 2%;
+        }
+
+        img {
+            width: 500px;
+            height: 420px;
+            display: block;
+            margin: auto;
+            box-shadow: -1px -1px 1px black, 1px 1px 1px black;
+            padding: 1%;
+        }
+
+        ul {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        ul li {
+            display: inline;
+            padding: 1%;
+            background-color: teal;
+            color: white;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <h1 class="title">How To Install PHP</h1>
+    <img id="img" src="screenshoot/xamp-install-1.jpg">
+    <ul>
+        <li onclick="tab(0)">Step 1</li>
+        <li onclick="tab(1)">Step 2</li>
+        <li onclick="tab(2)">Step 3</li>
+        <li onclick="tab(3)">Step 4</li>
+        <li onclick="tab(4)">Step 5</li>
+        <li onclick="tab(5)">Step 6</li>
+        <li onclick="tab(6)">Step 7</li>
+        <li onclick="tab(7)">Step 8</li>
+        <li onclick="tab(8)">Step 9</li>
+    </ul>
+    <script>
+        function tab(item) {
+            image = ['screenshoot/xamp-install-1.jpg', 'screenshoot/xamp-install-2.jpg', 'screenshoot/xamp-install-3.jpg', 'screenshoot/xamp-install-4.jpg', 'screenshoot/xamp-install-5.jpg', 'screenshoot/xamp-install-6.jpg', 'screenshoot/xamp-install-7.jpg', 'screenshoot/xamp-install-8.jpg', 'screenshoot/xamp-install-9.jpg',]
+            document.getElementById('img').src = image[item];
+        }
+    </script>
+
+
+</body>
+
+</html>
